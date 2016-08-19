@@ -18,3 +18,6 @@ Does the commit message work now?
 What about now?
 
 Seems to...aaaasddsf
+
+Now it works
+YES!!
